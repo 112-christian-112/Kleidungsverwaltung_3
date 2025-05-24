@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190573022680",
+    "project_id": "einsatzkleidung",
+    "storage_bucket": "einsatzkleidung.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190573022680:android:485c4fcdf4693e03cd36ad",
+        "android_client_info": {
+          "package_name": "com.example.kleidungsverwaltung_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyV3NJ80mmNsmDUSH2_ST1KEV5Hesl8Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
